@@ -1,4 +1,4 @@
-import "./reset.css"
-import "./styles.css"
+import "./reset.css";
+import "./styles.css";
 
-console.log("Hello, World")
+console.log("Hello, World");
